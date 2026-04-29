@@ -110,7 +110,7 @@ https://github.com/tsx-awtns/Auto-Messager---Sailor-Cross-App/releases/tag/5.3.0
 If you find bugs or problems:
 
 👉 Open a ticket:  
-https://discord.gg/sailor-cross/
+[Offcial Discord Server](https://discord.gg/sailor-cross)
 
 ---
 
