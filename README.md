@@ -48,11 +48,11 @@ We completely rebuilt everything:
 
 Latest updates focus on **stability, fixes, and system behavior**:
 
-- 🪟 App now **closes properly** (no background processes)
-- 🧠 Fixed **Task Manager name**
-- 🔄 Improved **Auto-Updater**
-  - Handles update automatically until installer starts
-- 🗑 Added **in-app uninstaller** (Settings → remove app directly)
+* :new: Fully custom installer (no more NSIS)
+* :arrows_counterclockwise: Smart update mode (auto-detects existing installs)
+* :wastebasket: Fixed uninstaller crash & cleanup issues
+* :gear: Improved install / update / uninstall flow
+* :brain: Better stability & internal improvements
 
 ---
 
