@@ -91,7 +91,7 @@ Latest updates focus on **stability, fixes, and system behavior**:
 ## 📥 Download & Updates
 
 👉 Latest release:  
-https://github.com/tsx-awtns/Auto-Messager---Sailor-Cross-App/releases/tag/5.3.0  
+https://github.com/tsx-awtns/Auto-Messager---Sailor-Cross-App/releases/tag/5.4.0  
 
 - Scroll to **Assets**
 - Download latest installer
